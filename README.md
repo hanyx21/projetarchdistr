@@ -1,4 +1,5 @@
 # Projet_Architecture_Distribue
+#les membres: Deschatrettes Matthias, Chouay Ibrahim, Hany Mohamed Amine
 
 ## Présentation :
 
