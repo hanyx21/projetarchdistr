@@ -36,8 +36,3 @@ Puis :
 `python fill_database.py`
 
 Vous pouvez désormais consulter la Base de donnée a partir de `localhost:8081/` ou sur MongoDB Compass.
-
-4. Visualisation :
-
-C'est depuis cette interface que vous pouvez entrer un commentaire et jouer avec les differents modèles d'IA intégrés.
-Connectez-vous a l'url `localhost:8501/` pour y accéder.
